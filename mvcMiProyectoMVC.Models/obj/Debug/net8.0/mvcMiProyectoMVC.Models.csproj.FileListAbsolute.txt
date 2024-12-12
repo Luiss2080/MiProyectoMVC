@@ -1,0 +1,11 @@
+C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.Models\bin\Debug\net8.0\mvcMiProyectoMVC.Models.deps.json
+C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.Models\bin\Debug\net8.0\mvcMiProyectoMVC.Models.dll
+C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.Models\bin\Debug\net8.0\mvcMiProyectoMVC.Models.pdb
+C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.Models\obj\Debug\net8.0\mvcMiProyectoMVC.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.Models\obj\Debug\net8.0\mvcMiProyectoMVC.Models.AssemblyInfoInputs.cache
+C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.Models\obj\Debug\net8.0\mvcMiProyectoMVC.Models.AssemblyInfo.cs
+C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.Models\obj\Debug\net8.0\mvcMiProyectoMVC.Models.csproj.CoreCompileInputs.cache
+C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.Models\obj\Debug\net8.0\mvcMiProyectoMVC.Models.dll
+C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.Models\obj\Debug\net8.0\refint\mvcMiProyectoMVC.Models.dll
+C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.Models\obj\Debug\net8.0\mvcMiProyectoMVC.Models.pdb
+C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.Models\obj\Debug\net8.0\ref\mvcMiProyectoMVC.Models.dll
