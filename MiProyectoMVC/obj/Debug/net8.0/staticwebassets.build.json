@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F2TywVAr+nrfVcJLbMXj7QRRbCsMF+RvFByGCFHJjnY=",
+  "Hash": "zxjVOfD4K/Sv2Rew4o/dQTxu3MKjLN1CMOZ8CxWxTp8=",
   "Source": "MiProyectoMVC",
   "BasePath": "_content/MiProyectoMVC",
   "Mode": "Default",
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\js\\almacen.js",
+      "SourceId": "MiProyectoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\",
+      "BasePath": "_content/MiProyectoMVC",
+      "RelativePath": "js/almacen#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "966dj3z1oz",
+      "Integrity": "ga/hD4L9BuRX9YCc0a2YN71JWU0bhj0062QKVLeVKeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\almacen.js"
     },
     {
       "Identity": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\js\\site.js",
@@ -1088,6 +1109,69 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+      "Identity": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\imagen1.jpg",
+      "SourceId": "MiProyectoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\",
+      "BasePath": "_content/MiProyectoMVC",
+      "RelativePath": "lib/imagen1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wio9t6jh0h",
+      "Integrity": "mJaNlBdXDqT+5hMbKDSL0LpGLfP0KDMZVqBLid4hj7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\imagen1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\imagen2.jpg",
+      "SourceId": "MiProyectoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\",
+      "BasePath": "_content/MiProyectoMVC",
+      "RelativePath": "lib/imagen2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "auml3d6fbz",
+      "Integrity": "4r3d4m0veA9+YWSVWez+8HD+h2MXHt9tJ0B/CJtWB6g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\imagen2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\imagen3.jpg",
+      "SourceId": "MiProyectoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\",
+      "BasePath": "_content/MiProyectoMVC",
+      "RelativePath": "lib/imagen3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mupkropt5a",
+      "Integrity": "3uqU35zPlFwj+ZthAjp2+fIKXX9iTNkEVrQBj4UJxUg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\imagen3.jpg"
+    },
+    {
       "Identity": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MiProyectoMVC",
       "SourceType": "Discovered",
@@ -1502,6 +1586,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "js/almacen.966dj3z1oz.js",
+      "AssetFile": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\js\\almacen.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ga/hD4L9BuRX9YCc0a2YN71JWU0bhj0062QKVLeVKeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 23:22:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "966dj3z1oz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/almacen.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ga/hD4L9BuRX9YCc0a2YN71JWU0bhj0062QKVLeVKeU="
+        }
+      ]
+    },
+    {
+      "Route": "js/almacen.js",
+      "AssetFile": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\js\\almacen.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ga/hD4L9BuRX9YCc0a2YN71JWU0bhj0062QKVLeVKeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 23:22:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ga/hD4L9BuRX9YCc0a2YN71JWU0bhj0062QKVLeVKeU="
         }
       ]
     },
@@ -5356,6 +5522,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/imagen1.jpg",
+      "AssetFile": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\imagen1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1056144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mJaNlBdXDqT+5hMbKDSL0LpGLfP0KDMZVqBLid4hj7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 01:03:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mJaNlBdXDqT+5hMbKDSL0LpGLfP0KDMZVqBLid4hj7k="
+        }
+      ]
+    },
+    {
+      "Route": "lib/imagen1.wio9t6jh0h.jpg",
+      "AssetFile": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\imagen1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1056144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mJaNlBdXDqT+5hMbKDSL0LpGLfP0KDMZVqBLid4hj7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 01:03:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wio9t6jh0h"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/imagen1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mJaNlBdXDqT+5hMbKDSL0LpGLfP0KDMZVqBLid4hj7k="
+        }
+      ]
+    },
+    {
+      "Route": "lib/imagen2.auml3d6fbz.jpg",
+      "AssetFile": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\imagen2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "887411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4r3d4m0veA9+YWSVWez+8HD+h2MXHt9tJ0B/CJtWB6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 01:05:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "auml3d6fbz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/imagen2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4r3d4m0veA9+YWSVWez+8HD+h2MXHt9tJ0B/CJtWB6g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/imagen2.jpg",
+      "AssetFile": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\imagen2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "887411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4r3d4m0veA9+YWSVWez+8HD+h2MXHt9tJ0B/CJtWB6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 01:05:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4r3d4m0veA9+YWSVWez+8HD+h2MXHt9tJ0B/CJtWB6g="
+        }
+      ]
+    },
+    {
+      "Route": "lib/imagen3.jpg",
+      "AssetFile": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\imagen3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "834207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3uqU35zPlFwj+ZthAjp2+fIKXX9iTNkEVrQBj4UJxUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 01:07:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3uqU35zPlFwj+ZthAjp2+fIKXX9iTNkEVrQBj4UJxUg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/imagen3.mupkropt5a.jpg",
+      "AssetFile": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\imagen3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "834207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3uqU35zPlFwj+ZthAjp2+fIKXX9iTNkEVrQBj4UJxUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 01:07:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mupkropt5a"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/imagen3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3uqU35zPlFwj+ZthAjp2+fIKXX9iTNkEVrQBj4UJxUg="
         }
       ]
     },

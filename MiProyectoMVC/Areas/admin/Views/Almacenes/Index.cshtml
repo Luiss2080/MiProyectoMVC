@@ -1,0 +1,165 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro de Almacén</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: #fff;
+            padding: 20px;
+            width: 100%;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+            header h1 {
+                margin: 0;
+            }
+
+        main {
+            max-width: 800px;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .card {
+            padding: 20px;
+            margin: 20px 0;
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+            .card:hover {
+                transform: translateY(-10px);
+                box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+            }
+
+        footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #666;
+        }
+
+        .highlight {
+            color: #4CAF50;
+            font-weight: bold;
+        }
+
+        .section-title {
+            margin-top: 30px;
+            font-size: 1.5em;
+            color: #4CAF50;
+        }
+
+        form {
+            text-align: left;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+        }
+
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+            .btn:hover {
+                background-color: #45a049;
+            }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido al Sistema de Registro</h1>
+    </header>
+    <main>
+        <h2>Almacén de Productos Variados</h2>
+        <p>Gracias por ser parte de nuestra familia. Agradecemos tu confianza y elección al realizar tus compras con nosotros.</p>
+
+        <div class="card">
+            <h2>Registro de Datos</h2>
+            <p>Registra y organiza tus productos de manera eficiente en nuestro sistema. Optimiza tu gestión y ahorra tiempo.</p>
+        </div>
+
+        <div class="card">
+            <h2>Formulario de Registro</h2>
+            <form method="POST" action="/Create">
+                <div class="form-group">
+                    <label for="NombreAlmacen">Nombre del Almacén:</label>
+                    <input type="text" id="NombreAlmacen" name="NombreAlmacen" placeholder="Ingresa el Nombre">
+                </div>
+                <div class="form-group">
+                    <label for="Direccion">Dirección:</label>
+                    <input type="text" id="Direccion" name="Direccion" placeholder="Ingresa la Dirección">
+                </div>
+                <div class="form-group">
+                    <label for="Orden">Orden de Aparición:</label>
+                    <input type="number" id="Orden" name="Orden" placeholder="Ingresa el orden de aparición">
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn">Guardar</button>
+                </div>
+            </form>
+        </div>
+
+        <div class="card">
+            <h2>Servicios Ofrecidos</h2>
+            <ul style="text-align: left; list-style: square; padding-left: 20px;">
+                <li>Gestión de inventarios.</li>
+                <li>Control de entradas y salidas de productos.</li>
+                <li>Reportes personalizados.</li>
+                <li>Atención al cliente eficiente.</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Cómo Funciona</h2>
+            <p>Completa los formularios con los datos del almacén, dirección y orden de aparición. Podrás visualizar y gestionar toda la información de manera centralizada.</p>
+        </div>
+    </main>
+    <footer>
+        &copy; 2024 Sistema de Almacén de Productos Variados. Todos los derechos reservados.
+    </footer>
+</body>
+</html>
+
+
+
+

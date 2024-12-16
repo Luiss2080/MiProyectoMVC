@@ -17,3 +17,4 @@ C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.AccesoDat
 C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.AccesoDatos\obj\Debug\net8.0\mvcMiProyectoMVC.AccesoDatos.pdb
 C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.AccesoDatos\obj\Debug\net8.0\mvcMiProyectoMVC.AccesoDatos.genruntimeconfig.cache
 C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.AccesoDatos\obj\Debug\net8.0\ref\mvcMiProyectoMVC.AccesoDatos.dll
+C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\mvcMiProyectoMVC.AccesoDatos\obj\Debug\net8.0\mvcMiProyectoMVC.AccesoDatos.sourcelink.json

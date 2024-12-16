@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|c:\\users\\luissxd\\documents\\diseniowebii\\miproyectomvc\\miproyectomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|solutionrelative:miproyectomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|c:\\users\\luissxd\\documents\\diseniowebii\\miproyectomvc\\miproyectomvc\\areas\\admin\\views\\almacenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|solutionrelative:miproyectomvc\\areas\\admin\\views\\almacenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|c:\\users\\luissxd\\documents\\diseniowebii\\miproyectomvc\\miproyectomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|solutionrelative:miproyectomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|c:\\users\\luissxd\\documents\\diseniowebii\\miproyectomvc\\miproyectomvc\\areas\\admin\\controllers\\almacenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|solutionrelative:miproyectomvc\\areas\\admin\\controllers\\almacenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|c:\\users\\luissxd\\documents\\diseniowebii\\miproyectomvc\\miproyectomvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|solutionrelative:miproyectomvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|c:\\users\\luissxd\\documents\\diseniowebii\\miproyectomvc\\miproyectomvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|solutionrelative:miproyectomvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|c:\\users\\luissxd\\documents\\diseniowebii\\miproyectomvc\\miproyectomvc\\wwwroot\\js\\almacen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|solutionrelative:miproyectomvc\\wwwroot\\js\\almacen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|c:\\users\\luissxd\\documents\\diseniowebii\\miproyectomvc\\miproyectomvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{03AF4341-4970-4F3F-A1FC-9B50416C7A50}|MiProyectoMVC\\MiProyectoMVC.csproj|solutionrelative:miproyectomvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A0A934-9390-455C-B1AE-F9E38BF1986E}|mvcMiProyectoMVC.AccesoDatos\\mvcMiProyectoMVC.AccesoDatos.csproj|c:\\users\\luissxd\\documents\\diseniowebii\\miproyectomvc\\mvcmiproyectomvc.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A0A934-9390-455C-B1AE-F9E38BF1986E}|mvcMiProyectoMVC.AccesoDatos\\mvcMiProyectoMVC.AccesoDatos.csproj|solutionrelative:mvcmiproyectomvc.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A0A934-9390-455C-B1AE-F9E38BF1986E}|mvcMiProyectoMVC.AccesoDatos\\mvcMiProyectoMVC.AccesoDatos.csproj|c:\\users\\luissxd\\documents\\diseniowebii\\miproyectomvc\\mvcmiproyectomvc.accesodatos\\data\\repository\\irepository\\icontendortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A0A934-9390-455C-B1AE-F9E38BF1986E}|mvcMiProyectoMVC.AccesoDatos\\mvcMiProyectoMVC.AccesoDatos.csproj|solutionrelative:mvcmiproyectomvc.accesodatos\\data\\repository\\irepository\\icontendortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiProyectoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiProyectoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T23:57:18.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap5.min.css",
+              "DocumentMoniker": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "RelativeDocumentMoniker": "MiProyectoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "ToolTip": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "RelativeToolTip": "MiProyectoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-15T23:55:52.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "MiProyectoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "MiProyectoMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAE8FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-15T23:55:44.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "almacen.js",
+              "DocumentMoniker": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\js\\almacen.js",
+              "RelativeDocumentMoniker": "MiProyectoMVC\\wwwroot\\js\\almacen.js",
+              "ToolTip": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\js\\almacen.js",
+              "RelativeToolTip": "MiProyectoMVC\\wwwroot\\js\\almacen.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-15T23:19:58.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "MiProyectoMVC\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "MiProyectoMVC\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-15T23:18:26.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\Areas\\admin\\Views\\Almacenes\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiProyectoMVC\\Areas\\admin\\Views\\Almacenes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\Areas\\admin\\Views\\Almacenes\\Index.cshtml",
+              "RelativeToolTip": "MiProyectoMVC\\Areas\\admin\\Views\\Almacenes\\Index.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T22:51:41.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContenedorTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\mvcMiProyectoMVC.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "mvcMiProyectoMVC.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ToolTip": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\mvcMiProyectoMVC.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeToolTip": "mvcMiProyectoMVC.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:42:48.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IContendorTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\mvcMiProyectoMVC.AccesoDatos\\Data\\Repository\\IRepository\\IContendorTrabajo.cs",
+              "RelativeDocumentMoniker": "mvcMiProyectoMVC.AccesoDatos\\Data\\Repository\\IRepository\\IContendorTrabajo.cs",
+              "ToolTip": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\mvcMiProyectoMVC.AccesoDatos\\Data\\Repository\\IRepository\\IContendorTrabajo.cs",
+              "RelativeToolTip": "mvcMiProyectoMVC.AccesoDatos\\Data\\Repository\\IRepository\\IContendorTrabajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:42:00.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlmacenesController.cs",
+              "DocumentMoniker": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\Areas\\admin\\Controllers\\AlmacenesController.cs",
+              "RelativeDocumentMoniker": "MiProyectoMVC\\Areas\\admin\\Controllers\\AlmacenesController.cs",
+              "ToolTip": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\Areas\\admin\\Controllers\\AlmacenesController.cs",
+              "RelativeToolTip": "MiProyectoMVC\\Areas\\admin\\Controllers\\AlmacenesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:38:25.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\Program.cs",
+              "RelativeDocumentMoniker": "MiProyectoMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\Program.cs",
+              "RelativeToolTip": "MiProyectoMVC\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:11:05.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -263,3 +263,4 @@ C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\MiProyectoMVC\bin\Debug\ne
 C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\MiProyectoMVC\bin\Debug\net8.0\mvcMiProyectoMVC.Models.pdb
 C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\MiProyectoMVC\bin\Debug\net8.0\mvcMiProyectoMVC.Utilidades.pdb
 C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\MiProyectoMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LuissxD\Documents\DisenioWebII\MiProyectoMVC\MiProyectoMVC\obj\Debug\net8.0\MiProyectoMVC.sourcelink.json

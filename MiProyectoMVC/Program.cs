@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using mvcMiProyectoMVC.AccesoDatos.Data;
+using mvcMiProyectoMVC.AccesoDatos.Data.Repository.IRepository;
+using mvcMiProyectoMVC.AccesoDatos.Data.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +16,17 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
+//agregar contenedor de trabajo al contenedos IoC de inyeccion de dependencias
+builder.Services.AddScoped<IContenedorTrabajo, ContenedorTrabajo>();
+
+
+
+
+
+
+
 
 var app = builder.Build();
 

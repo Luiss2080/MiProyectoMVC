@@ -1,5 +1,6 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\js\almacen.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
@@ -47,6 +48,9 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\imagen1.jpg
+wwwroot\lib\imagen2.jpg
+wwwroot\lib\imagen3.jpg
 wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map

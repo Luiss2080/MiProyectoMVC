@@ -15,12 +15,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\admin\Controllers\" />
     <Folder Include="Areas\admin\Data\" />
-    <Folder Include="Areas\admin\Models\" />
-    <Folder Include="Areas\admin\Views\" />
     <Folder Include="Areas\cliente\Data\" />
     <Folder Include="Areas\cliente\Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\lib\imagen1.jpg" />
+    <None Include="wwwroot\lib\imagen2.jpg" />
+    <None Include="wwwroot\lib\imagen3.jpg" />
   </ItemGroup>
 
   <ItemGroup>

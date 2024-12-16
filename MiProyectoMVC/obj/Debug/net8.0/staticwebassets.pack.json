@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\js\\almacen.js",
+      "PackagePath": "staticwebassets\\js\\almacen.js"
+    },
+    {
       "Id": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -199,6 +203,18 @@
     {
       "Id": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\imagen1.jpg",
+      "PackagePath": "staticwebassets\\lib\\imagen1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\imagen2.jpg",
+      "PackagePath": "staticwebassets\\lib\\imagen2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\imagen3.jpg",
+      "PackagePath": "staticwebassets\\lib\\imagen3.jpg"
     },
     {
       "Id": "C:\\Users\\LuissxD\\Documents\\DisenioWebII\\MiProyectoMVC\\MiProyectoMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
